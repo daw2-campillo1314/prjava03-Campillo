@@ -50,9 +50,9 @@ addWindowListener(this);
 
 // "this" Frame adds "this" object as a WindowEvent listener
 
-setTitle("prjava03"); // "this" Frame sets title
+setTitle("nova finestra prjava03-campillo"); // "this" Frame sets title
 
-setSize(250, 100); // "this" Frame sets initial size
+setSize(450, 100); // "this" Frame sets initial size
 
 setVisible(true); // "this" Frame shows
 
@@ -62,7 +62,7 @@ setVisible(true); // "this" Frame shows
 
 public static void main(String[] args) {
 
-new Prjava03(); // Let the construct do the job
+new Prjava03Campillo(); // Let the construct do the job
 
 }
 
