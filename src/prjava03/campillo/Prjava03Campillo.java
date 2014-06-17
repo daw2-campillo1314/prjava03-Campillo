@@ -50,9 +50,9 @@ addWindowListener(this);
 
 // "this" Frame adds "this" object as a WindowEvent listener
 
-setTitle("nova finestra prjava03-campillo"); // "this" Frame sets title
+setTitle("prjava03"); // "this" Frame sets title
 
-setSize(450, 100); // "this" Frame sets initial size
+setSize(250, 100); // "this" Frame sets initial size
 
 setVisible(true); // "this" Frame shows
 
